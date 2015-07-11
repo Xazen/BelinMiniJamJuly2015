@@ -1,0 +1,16 @@
+﻿Build started 11-Jul-15 14:07:14.
+     1>Project "C:\Users\Rezan\Documents\GitHub\BerlinMiniJamJuly2015\MiniJamJuly2015\Intermediate\ProjectFiles\MiniJamJuly2015.vcxproj" on node 2 (Build target(s)).
+     1>Build:
+         "C:\Program Files\Epic Games\4.8\Engine\Build\BatchFiles\Build.bat" MiniJamJuly2015Editor Win64 Development "C:\Users\Rezan\Documents\GitHub\BerlinMiniJamJuly2015\MiniJamJuly2015\MiniJamJuly2015.uproject" -rocket
+         Compiling game modules for hot reload
+         Performing 2 actions (2 in parallel)
+         MiniJamJuly2015.generated.cpp
+         [2/2] Link UE4Editor-MiniJamJuly2015-377.dll
+            Creating library C:\Users\Rezan\Documents\GitHub\BerlinMiniJamJuly2015\MiniJamJuly2015\Intermediate/Build/Win64\UE4Editor\Development\UE4Editor-MiniJamJuly2015-377.lib and object C:\Users\Rezan\Documents\GitHub\BerlinMiniJamJuly2015\MiniJamJuly2015\Intermediate/Build/Win64\UE4Editor\Development\UE4Editor-MiniJamJuly2015-377.exp
+         -------- End Detailed Actions Stats -----------------------------------------------------------
+         Total build time: 29.26 seconds
+     1>Done Building Project "C:\Users\Rezan\Documents\GitHub\BerlinMiniJamJuly2015\MiniJamJuly2015\Intermediate\ProjectFiles\MiniJamJuly2015.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:34.02
